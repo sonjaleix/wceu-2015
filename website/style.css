@@ -366,7 +366,8 @@ a {
 	display: none;
 }
 
-.navigation {
+.navigation,
+#comments {
 	padding: 0 2em 1em 2em;
 }
 
@@ -732,7 +733,8 @@ form {
 /* --- Component: Organizers --- --- --- --- --- --- --- --- */
 .wcorg-speakers,
 .wcorg-organizers,
-.wcorg-speaker {
+.wcorg-speaker,
+.single {
 
 	h2,
 	h3 { text-align: left !important; }
@@ -742,8 +744,13 @@ form {
 		padding: 0 0 3em 0;
 	}
 
+	.speaker-avatar {
+		float: right;
+	}
+
 	.wcorg-organizer-description,
-	.speaker-bio {
+	.speaker-bio,
+	.speaker-avatar {
 		overflow: hidden;
 	
 		img { display: block; float: right; margin: 0 0 2em 2em; border-radius: 50%; }
