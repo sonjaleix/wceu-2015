@@ -1,0 +1,145 @@
+%!Adobe-FontList 1.16
+%Locale:0x409
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:EkMukta-Bold
+FamilyName:Ek Mukta
+StyleName:Bold
+MenuName:Ek Mukta
+StyleBits:2
+WeightClass:700
+WidthClass:5
+AngleClass:0
+FullName:Ek Mukta Bold
+WritingScript:Roman
+OutlineFileName:\EkMukta-Bold.ttf
+DataFormat:sfntData
+FileLength:1011196
+FileModTime:1421261072
+NameArray:0,Mac,18,Ek Mukta Bold
+NameArray:0,Mac,4,Ek Mukta Bold
+NameArray:0,Win,1,Ek Mukta
+NameArray:0,Win,16,Ek Mukta
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:EkMukta-Medium
+FamilyName:Ek Mukta
+StyleName:Medium
+MenuName:Ek Mukta
+StyleBits:0
+WeightClass:500
+WidthClass:5
+AngleClass:0
+FullName:Ek Mukta Medium
+WritingScript:Roman
+OutlineFileName:\EkMukta-Medium.ttf
+DataFormat:sfntData
+FileLength:1006912
+FileModTime:1421261070
+NameArray:0,Mac,18,Ek Mukta Medium
+NameArray:0,Mac,4,Ek Mukta Medium
+NameArray:0,Win,1,Ek Mukta
+NameArray:0,Win,16,Ek Mukta
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:EkMukta-Regular
+FamilyName:Ek Mukta
+StyleName:Regular
+MenuName:Ek Mukta
+StyleBits:0
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:Ek Mukta Regular
+WritingScript:Roman
+OutlineFileName:\EkMukta-Regular.ttf
+DataFormat:sfntData
+FileLength:1022884
+FileModTime:1421261070
+NameArray:0,Mac,18,Ek Mukta
+NameArray:0,Mac,4,Ek Mukta
+NameArray:0,Win,1,Ek Mukta
+NameArray:0,Win,16,Ek Mukta
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:EkMukta-SemiBold
+FamilyName:Ek Mukta
+StyleName:SemiBold
+MenuName:Ek Mukta
+StyleBits:0
+WeightClass:600
+WidthClass:5
+AngleClass:0
+FullName:Ek Mukta SemiBold
+WritingScript:Roman
+OutlineFileName:\EkMukta-SemiBold.ttf
+DataFormat:sfntData
+FileLength:992936
+FileModTime:1421261070
+NameArray:0,Mac,18,Ek Mukta SemiBold
+NameArray:0,Mac,4,Ek Mukta SemiBold
+NameArray:0,Win,1,Ek Mukta
+NameArray:0,Win,16,Ek Mukta
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:HelveticaNeueLTPro-LtCn
+FamilyName:Helvetica Neue LT Pro
+StyleName:47 Light Condensed
+MenuName:HelveticaNeueLT Pro 47 LtCn
+StyleBits:0
+WeightClass:300
+WidthClass:5
+AngleClass:0
+FullName:Helvetica Neue LT Pro 47 Light Condensed
+WritingScript:Roman
+OutlineFileName:\HelveticaNeueLTPro-LtCn.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:45244
+FileModTime:1313803387
+NameArray:0,Mac,18,HelveticaNeueLT Pro 47 LtCn
+NameArray:0,Mac,4,Helvetica Neue LT Pro 47 Light Condensed
+NameArray:0,Win,1,HelveticaNeueLT Pro 47 LtCn
+NameArray:0,Win,16,Helvetica Neue LT Pro
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:HelveticaNeueLTPro-MdCn
+FamilyName:Helvetica Neue LT Pro
+StyleName:67 Medium Condensed
+MenuName:HelveticaNeueLT Pro 67 MdCn
+StyleBits:0
+WeightClass:500
+WidthClass:5
+AngleClass:0
+FullName:Helvetica Neue LT Pro 67 Medium Condensed
+WritingScript:Roman
+OutlineFileName:\HelveticaNeueLTPro-MdCn.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:47656
+FileModTime:1313803387
+NameArray:0,Mac,18,HelveticaNeueLT Pro 67 MdCn
+NameArray:0,Mac,4,Helvetica Neue LT Pro 67 Medium Condensed
+NameArray:0,Win,1,HelveticaNeueLT Pro 67 MdCn
+NameArray:0,Win,16,Helvetica Neue LT Pro
+%EndFont
+
